@@ -1,0 +1,33 @@
+#	127.0.0.1       localhost
+#	::1             localhost
+
+# 1.破解IntelliJ IDEA
+0.0.0.0         account.jetbrains.com
+# 2.破解navicat
+0.0.0.0         activate.navicat.com
+# 3.禁止RedisDesktopManager更新提示
+0.0.0.0         redisdesktop.com
+
+# 去广告
+127.0.0.1       2018.hao245.com
+
+
+# 蒲公英1
+#172.6.84.201    home
+# 蒲公英 wt0088
+172.13.180.226   kf
+# 172.10.118.218  home
+172.13.211.93   home
+172.10.102.99   cpt
+
+# 127.0.0.1       mss-eureka1
+# 127.0.0.1       mss-eureka2
+
+# 公司开发
+192.168.30.208  wtt
+#192.168.30.208 desktop-hvv4is6.cpt.com
+192.168.10.100  server
+192.168.10.100  eureka
+192.168.10.100  config-server
+
+
